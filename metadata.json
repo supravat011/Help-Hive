@@ -1,0 +1,7 @@
+{
+  "name": "HelpHive",
+  "description": "A crowd-supported emergency assistance platform connecting people in need with nearby volunteers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
